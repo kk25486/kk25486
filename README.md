@@ -1,16 +1,17 @@
-### Hi there 👋
+# 👋 Hurricane 的個人介紹
+#### `print('Hello World!')`
 
-<!--
-**kk25486/kk25486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___⚒️ Programming Languages 編程語言___
+- Python
+- Java
+- HTML/CSS
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+___🌐 Languages 語言___
+- Traditional Chinese 繁體中文
+- English 英文
+
+
+___📑 Contact Me 聯絡我___
+- E-Mail: kk25486.tw@gmail.com
+- Discord: Hurricane#1000
