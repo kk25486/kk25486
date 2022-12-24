@@ -13,5 +13,5 @@
 
 
 ### ___📑 Contact Me 聯絡我___
-- E-Mail: kk25486.tw@gmail.com
+- E-Mail: dev@tech-tw.live
 - Discord: Hurricane#1000
