@@ -15,3 +15,4 @@
 ### ___📑 Contact Me 聯絡我___
 - E-Mail: dev@tech-tw.live
 - Discord: Hurricane#1000
+- Discord: Cyun#0001
