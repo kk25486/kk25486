@@ -3,8 +3,7 @@
 
 ### ___⚒️ Programming Languages 編程語言___
 - Python
-- Java
-- HTML/CSS
+- HTML/CSS/JavaScript
 
 
 ### ___🌐 Languages 語言___
@@ -15,4 +14,3 @@
 ### ___📑 Contact Me 聯絡我___
 - E-Mail: dev@tech-tw.live
 - Discord: Hurricane#1000
-- Discord: Cyun#0001
