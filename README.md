@@ -1,16 +1,19 @@
-# 👋 Hurricane 的個人介紹
-#### `print('Hello World!')`
+# 👋 Hello world!
+#### ` There is Hurricane's Profile. | Something went wrong? `
 
-### ___⚒️ Programming Languages 編程語言___
+### ___Programming Languages___
+- Java
+- JavaScript
 - Python
-- HTML/CSS/JavaScript
+- HTML5
+- CSS
 
 
-### ___🌐 Languages 語言___
-- Traditional Chinese 繁體中文
-- English 英文
+### ___languages___
+- Traditional Chinese
+- English
 
 
-### ___📑 Contact Me 聯絡我___
+### ___Contact___
 - E-Mail: dev@tech-tw.live
 - Discord: Hurricane#1000
