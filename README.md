@@ -8,7 +8,7 @@
 `⿻ Social`
 - Instagram: [@hurricane.tw](https://instagram.com/hurricane.tw)
 - Discord: [@kk25486](https://discord.com/users/994212473399943168)
-- Mail: kk25486.tw+work@gmail.com
+- Mail: me+work@hurricane.tw
 
 `⿻ Projects`
 - [ShiftFCommand for Paper](https://hangar.papermc.io/kk25486/ShiftFCommand)
